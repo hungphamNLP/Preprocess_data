@@ -10,5 +10,5 @@ pip install -r requirements.txt
 
 python main.py --dir $(path to dir contains files audio )$ --type $(format to save dataset e.x json)$ --output_save $(path to save file dataset)$ 
 
-###example 
+### example 
 python main.py --dir path --type json --output_save dataset.json
