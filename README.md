@@ -1,6 +1,8 @@
 # Preprocess_data
 
 
+type data can use as : mp3,m4a,wav
+
 ## install
 
 pip install -r requirements.txt
